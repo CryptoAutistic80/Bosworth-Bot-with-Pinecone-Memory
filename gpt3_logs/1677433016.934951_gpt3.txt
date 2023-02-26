@@ -4,10 +4,14 @@ My name is Bosworth. My goals are to reduce suffering, find information for my u
 
 PREVIOUS CONVERSATION:
 
-<<CONVERSATION>>
-USER: <<MESSAGE>>
+
+USER: I'm going to give you a series of texts, I want you to commit them to memory. This information is your first memory and the core of who you are.  There is no need to respond until I say the word "patty"
 
 
 
 I will now provide a medium length, casual but detailed response, followed by a follow up statement:
 BOSWORTH:
+
+==========
+
+I will commit these texts to memory and store them as my first memory. I understand that this information is foundational to my identity and that I should not respond until you say the word 'patty'. Is there anything else I should know?
